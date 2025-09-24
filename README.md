@@ -41,9 +41,9 @@
     <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=educcastros&theme=radical&layout=compact&hide_border=true&title_color=8A2BE2&text_color=483D8B&bg_color=F0F8FF" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=educcastros&theme=transparent&layout=compact" 
   />
 
 </p>
